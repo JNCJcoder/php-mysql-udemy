@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<h4 align="center">Projeto realizado durante o curso de PHP e Mysql da Alfahelix Treinamentos na Udemy.</h4>
+<h4 align="center">Projeto realizado durante o curso de <a href="https://www.udemy.com/course/php-mysql-x">PHP e Mysql</a> da Alfahelix Treinamentos na Udemy.</h4>
 </br>
 
 ## 📝 Tudo que Aprendi
